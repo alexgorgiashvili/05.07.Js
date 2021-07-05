@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+form {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  margin-top: 150px;
+}
+.btn1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  z-index: 1;
+  background-color: #00acc1;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+}
+input {
+  padding: 10px 45px;
+  border: 2px solid #00acc1 ;
+  outline: none;
+  color: #00acc1;
+}
